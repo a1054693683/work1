@@ -1,18 +1,18 @@
 //
-//  hahaTests.m
-//  hahaTests
+//  __Tests.m
+//  哦哦Tests
 //
-//  Created by 大地 on 2016/11/6.
+//  Created by 大地 on 2016/11/7.
 //  Copyright © 2016年 大地. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface hahaTests : XCTestCase
+@interface __Tests : XCTestCase
 
 @end
 
-@implementation hahaTests
+@implementation __Tests
 
 - (void)setUp {
     [super setUp];

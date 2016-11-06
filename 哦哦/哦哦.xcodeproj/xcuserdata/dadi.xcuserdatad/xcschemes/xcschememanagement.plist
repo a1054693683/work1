@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>haha.xcscheme</key>
+		<key>哦哦.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>0B13A3FC1DCF8AA700BDCE3A</key>
+		<key>0B13A47A1DCF8C3D00BDCE3A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>0B13A4151DCF8AA700BDCE3A</key>
+		<key>0B13A4931DCF8C3D00BDCE3A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>0B13A4201DCF8AA700BDCE3A</key>
+		<key>0B13A49E1DCF8C3D00BDCE3A</key>
 		<dict>
 			<key>primary</key>
 			<true/>

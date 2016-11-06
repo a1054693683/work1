@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0B13A3FC1DCF8AA700BDCE3A"
-               BuildableName = "haha.app"
-               BlueprintName = "haha"
-               ReferencedContainer = "container:haha.xcodeproj">
+               BlueprintIdentifier = "0B13A47A1DCF8C3D00BDCE3A"
+               BuildableName = "&#x54e6;&#x54e6;.app"
+               BlueprintName = "&#x54e6;&#x54e6;"
+               ReferencedContainer = "container:&#x54e6;&#x54e6;.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0B13A4151DCF8AA700BDCE3A"
-               BuildableName = "hahaTests.xctest"
-               BlueprintName = "hahaTests"
-               ReferencedContainer = "container:haha.xcodeproj">
+               BlueprintIdentifier = "0B13A4931DCF8C3D00BDCE3A"
+               BuildableName = "&#x54e6;&#x54e6;Tests.xctest"
+               BlueprintName = "&#x54e6;&#x54e6;Tests"
+               ReferencedContainer = "container:&#x54e6;&#x54e6;.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0B13A4201DCF8AA700BDCE3A"
-               BuildableName = "hahaUITests.xctest"
-               BlueprintName = "hahaUITests"
-               ReferencedContainer = "container:haha.xcodeproj">
+               BlueprintIdentifier = "0B13A49E1DCF8C3D00BDCE3A"
+               BuildableName = "&#x54e6;&#x54e6;UITests.xctest"
+               BlueprintName = "&#x54e6;&#x54e6;UITests"
+               ReferencedContainer = "container:&#x54e6;&#x54e6;.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0B13A3FC1DCF8AA700BDCE3A"
-            BuildableName = "haha.app"
-            BlueprintName = "haha"
-            ReferencedContainer = "container:haha.xcodeproj">
+            BlueprintIdentifier = "0B13A47A1DCF8C3D00BDCE3A"
+            BuildableName = "&#x54e6;&#x54e6;.app"
+            BlueprintName = "&#x54e6;&#x54e6;"
+            ReferencedContainer = "container:&#x54e6;&#x54e6;.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0B13A3FC1DCF8AA700BDCE3A"
-            BuildableName = "haha.app"
-            BlueprintName = "haha"
-            ReferencedContainer = "container:haha.xcodeproj">
+            BlueprintIdentifier = "0B13A47A1DCF8C3D00BDCE3A"
+            BuildableName = "&#x54e6;&#x54e6;.app"
+            BlueprintName = "&#x54e6;&#x54e6;"
+            ReferencedContainer = "container:&#x54e6;&#x54e6;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0B13A3FC1DCF8AA700BDCE3A"
-            BuildableName = "haha.app"
-            BlueprintName = "haha"
-            ReferencedContainer = "container:haha.xcodeproj">
+            BlueprintIdentifier = "0B13A47A1DCF8C3D00BDCE3A"
+            BuildableName = "&#x54e6;&#x54e6;.app"
+            BlueprintName = "&#x54e6;&#x54e6;"
+            ReferencedContainer = "container:&#x54e6;&#x54e6;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
